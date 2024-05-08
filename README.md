@@ -10,10 +10,11 @@ Automated Tests: Included one automated test for the "Next" and "Previous" butto
 Bonus: Hidded my favorite Pokémon on the site. Can you find it?
 
 ## Development Decisions
-Tech Stack: Chose React for building the frontend because it was the only one of the tech stack I've heard of.
-Styling: Utilized a little CSS for styling the components to maintain simplicity, but it was very needed for the suggestion box.
-State Management: Utilized React's built-in state management for handling user input, Pokémon data, and navigation.
-Testing: Chose Jest and React Testing Library for writing tests due to their simplicity and effectiveness in testing React components.
+Since this was my first experience with React and I didn't have any development tools installed, I utilized Visual Studio Code and ran 'npx create-react-app my-app' to start with a prototype of a React application and build on top of it.
+Tech Stack: I chose React for building the frontend as it was the only technology in the stack that I had heard of.
+Styling: I used a minimal amount of CSS for styling the components to maintain simplicity, although it was particularly necessary for the suggestion box.
+State Management: I utilized React's built-in state management for handling user input, Pokémon data, and navigation.
+Testing: For testing, I opted for Jest and React Testing Library due to their simplicity and effectiveness in testing React components.
 Caching: Not implemented.
 
 ## Setup Instructions

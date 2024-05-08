@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { render, screen, fireEvent, waitFor } from '@testing-library/react';
+import '@testing-library/user-event';
 import App from './App';
 
 describe('Pokémon Search App', () => {

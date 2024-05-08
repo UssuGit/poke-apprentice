@@ -1,12 +1,12 @@
 # Poke Apprentice React Application
-This repository contains my solution to a Coding Challenge. Below, I outline the tasks completed and the decisions made during development.
+  This repository contains my solution to a Coding Challenge. Below, I outline the tasks completed and the decisions made during development.
 
 ## Challenge Tasks Completed
-Web Page Input: Implemented a web page where users can enter a Pokémon name.
-Pokémon Query: Upon submission, the application queries the PokéAPI to retrieve details of the specified Pokémon, including its name, number, and sprite. If no match is found, an error message is displayed.
-Navigation Buttons: Added "Previous" and "Next" buttons to navigate between Pokémon based on their ID numbers.
-Text-based Search: Implemented a text-based search feature where users can input a Pokémon name or partial name to find suggestions of matching Pokémons.
-Automated Tests: Included one automated test for the "Next" and "Previous" buttons.
+  Web Page Input: Implemented a web page where users can enter a Pokémon name.
+  Pokémon Query: Upon submission, the application queries the PokéAPI to retrieve details of the specified Pokémon, including its name, number, and sprite. If no match is found, an error message is displayed.
+  Navigation Buttons: Added "Previous" and "Next" buttons to navigate between Pokémon based on their ID numbers.
+  Text-based Search: Implemented a text-based search feature where users can input a Pokémon name or partial name to find suggestions of matching Pokémons.
+  Automated Tests: Included one automated test for the "Next" and "Previous" buttons.
 
 ## Development Decisions
 Tech Stack: Chose React for building the frontend due to its flexibility, ease of use, and popularity within Subvisual's tech stack.

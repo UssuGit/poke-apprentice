@@ -1,7 +1,7 @@
 #Poke Apprentice React Application
-This repository contains my solution to the Subvisual Apprenticeship Developer Coding Challenge. Below, I outline the tasks completed and the decisions made during development.
+This repository contains my solution to a Coding Challenge. Below, I outline the tasks completed and the decisions made during development.
 
-Challenge Tasks Completed
+#Challenge Tasks Completed
 Web Page Input: Implemented a web page where users can enter a Pokémon name.
 Pokémon Query: Upon submission, the application queries the PokéAPI to retrieve details of the specified Pokémon, including its name, number, and sprite. If no match is found, an error message is displayed.
 Navigation Buttons: Added "Previous" and "Next" buttons to navigate between Pokémon based on their ID numbers.
